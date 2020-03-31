@@ -1,0 +1,9 @@
+Algorithm:
+===========
+Step1 - START
+Step2 - Initiate the WebDriver
+Step3 - Open the Google search page
+Step4 - Input the wurl.com
+Step5 - Click the I'm Feeling lucky button
+Step6 - Verify the Wurl Home page is displayed
+Step7 - STOP
